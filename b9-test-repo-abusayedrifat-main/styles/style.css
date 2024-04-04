@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200..1000&display=swap');
+ 
+body{
+   font-family: Mulish;
+}
+.button{
+    background-color: #797DFC;
+    color: white;
+     font-size: 20px;
+     font-weight: 700;
+     border-radius: 50px;
+}
+.banner{
+    background-color: #12132D;
+    background-image: url('/images/bgbanner.png');
+    height: 550px;
+    width: 100%;
+    background-repeat:  no-repeat;
+    border-radius: 25px;
+    background-position: bottom;
+    font-weight: 900;
+
+   
+}
+.banner2{
+    background-color: #12132D;
+    height: 550px;
+    width: 100%;
+    border-radius: 25px;
+    font-weight: 900;
+}
+.retro{
+    background-image: linear-gradient(90deg, rgb(121, 125, 252), rgba(121, 125, 252, 0)  );
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+.p-primary{
+    color:#12132D99 ;
+}
+.footer-bg{
+    background: linear-gradient(180.00deg, rgba(18, 19, 45, 0.05),rgba(18, 19, 45, 0) 100%);
+}
